@@ -1,0 +1,10 @@
+<h2>Problem Statement 1</h2><h3 align="center">Type : Normal</h3>
+<br><br>
+A IQ combo is a set of 3 natural numbers, i, j and k, for which, i^2 + j^2 = k^2
+<br><br>
+For example, 3^2 + 4^2 = 9 + 16 = 25 = 5^2.
+<br><br>
+There exists exactly one IQ combo for which i + j + k = 1000.
+<br><br>
+Find the product ijk.
+<br><br>

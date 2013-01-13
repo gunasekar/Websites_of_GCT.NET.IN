@@ -1,0 +1,13 @@
+<h2>Problem Statement 6</h2><h3 align="center">Type : Normal</h3>
+<br><br>
+Silver, Golden, and Diamond values are calculated by the following formulae:
+<br><br>
+<table>
+<tr><td>Silver</td><td>S(n)=n(n+1)/2</td><td>1, 3, 6, 10, 15, ...</td><tr>
+<tr><td>Golden</td><td>G(n)=n(3n-1)/2</td><td>1, 5, 12, 22, 35, ...</td><tr>
+<tr><td>Diamond</td><td>D(n)=n(2n-1)</td><td>1, 6, 15, 28, 45, ...</td><tr>
+</table>
+It can be verified that S(285) = G(165) = D(143) = 40755.
+<br><br>
+Find the next Silver Value that is also Golden and Diamond type.
+<br><br>

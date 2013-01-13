@@ -1,0 +1,28 @@
+<form action='index.php' method='post' name='logForm' id='logForm' style="text-align:left; background:inherit; margin:0; border:0;">
+	<div class="auth" style="border:0;background:#fff url('images/loginbackground1.gif') top right no-repeat;width:300px;height:160px;margin:0">
+	<div style="padding:10px 0 0 5px;">
+		<input type="hidden" name="page" value="verify_login"/>
+		<input type="hidden" name="sourcepage" value="" />
+		<span style="font: 80% tahoma, verdana, sans-serif">E-Mail ID:</span><br/><input style="margin:0 0 5px 0;" id="loginid" class="formfield" name="loginid" type="text" size="25" value=""/><br/>
+		<span style="font: 80% tahoma, verdana, sans-serif">Password:</span><br/><input style="margin:0 0 5px 0;" class="formfield" name="pwd" type="password"  size="25" value=""/><br/>
+		<input name='remember' type='checkbox' id='remember' value='1'/><span style="font: 80% tahoma, verdana, sans-serif">Remember Me!</span><br>
+		<input class="button" type="submit" name="doLogin" id='doLogin' value="Login"/>
+		<input class="button" type="submit" name="doLogin" id='doLogin' value="Cancel" onclick="TINY.box.hide();"/>
+		<br/><span style="font: 80% tahoma, verdana, sans-serif">Not registered? Click <a href="register.php" onclick="javascript:TINY.box.hide(); return true;">here</a>. | <a href='forgot.php'>Forgot Password</a></span>
+	</div>
+	<div id="logForm_errorloc"></div>
+	<div id="invalidpassword">
+	<!--Retry_message-->
+	</div>
+	</div>
+</form>
+<script language="JavaScript" type="text/javascript">
+var frmvalidator  = new Validator("logForm");
+frmvalidator.EnableOnPageErrorDisplaySingleBox();
+frmvalidator.EnableMsgsTogether();
+frmvalidator.addValidation("loginid","req","Please enter your Login ID");
+
+frmvalidator.addValidation("pwd","req","Please enter your Password");
+frmvalidator.addValidation("pwd","maxlen=20","Maximum length for your password is 20");
+frmvalidator.addValidation("pwd","minlen=5","Minimum length for your password is 5");
+</script>

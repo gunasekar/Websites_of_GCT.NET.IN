@@ -1,0 +1,33 @@
+sidebox{
+	position:fixed;
+	width:220px;
+	height:310px;
+	right:0px;
+	bottom:0px;
+	z-index:1;
+	font-size: 12px;
+	background:url(images/sidebox_1.gif) repeat;
+	border:2px solid black;
+}
+
+sidebox.transbox{
+	width:220px;
+	height:310px;
+	border:2px solid black;
+	opacity:0.8;
+	filter:alpha(opacity=80); /* For IE8 and earlier */
+	color :#000000;
+}
+
+#chatbox {
+	text-align:left;
+	padding:3px;
+	height:230px;
+	width:210px;
+	overflow:auto; 
+	}
+
+#usermsg {
+	width:150px;
+	height:20px;
+	border:1px solid #ACD8F0; }

@@ -1,0 +1,3 @@
+<h2>Problem Statement 2</h2><h3 align="center">Type : *</h3>
+<br><br>
+How many different rectangles can be drawn on an 16 × 16 chess like board (rectangles can have lengths 1 through 16 and two rectangles are different if they contain a different subset of squares).

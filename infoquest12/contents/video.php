@@ -1,0 +1,9 @@
+<li><a href="http://www.youtube.com/watch?v=iSUXMgR9wY0" rel="prettyPhoto" title="CSITA - InfoQuest'12 Trailer"><img src="images/flash-logo.png" width="60" alt="" /></a> - CSITA - InfoQuest'12 Trailer<br></li>
+<li><a href="http://www.youtube.com/watch?v=eUH6QNT8vq4" rel="prettyPhoto" title="CSITA - InfoQuest'12"><img src="images/flash-logo.png" width="60" alt="" /></a> - CSITA - InfoQuest'12<br></li>
+<li><a href="http://www.youtube.com/watch?v=Q7Fb8X0WpoQ" rel="prettyPhoto" title="CSITA - Login'11 Promo"><img src="images/flash-logo.png" width="60" alt="" /></a> - CSITA - Login'11 Promo<br></li>
+<li><a href="http://www.youtube.com/watch?v=ql-YKjQ0xtk" rel="prettyPhoto" title="CSITA - Login'11 Promo-2"><img src="images/flash-logo.png" width="60" alt="" /></a> - CSITA - Login'11 Promo-2<br></li>
+<li><a href="http://www.youtube.com/watch?v=KhMAC_2tRck" rel="prettyPhoto" title="CSITA - Login'11 Inauguration"><img src="images/flash-logo.png" width="60" alt="" /></a> - CSITA - Login'11 Inauguration<br></li>
+<li><a href="http://www.youtube.com/watch?v=dha3X3ttBUA" rel="prettyPhoto" title="CSITA - Login'11 Culturals Inauguration"><img src="images/flash-logo.png" width="60" alt="" /></a> - CSITA - Login'11 Culturals Inauguration<br></li>
+<li><a href="http://www.youtube.com/watch?v=WcWAlviZ1LA" rel="prettyPhoto" title="CSITA - Evan di unna pethan - Animated!"><img src="images/flash-logo.png" width="60" alt="" /></a> - CSITA - Evan di unna pethan - Animated!<br></li>
+<li><a href="http://www.youtube.com/watch?v=IcaTnvuSoNc" rel="prettyPhoto" title="CSITA - Obey road rules(Awareness)"><img src="images/flash-logo.png" width="60" alt="" /></a> - CSITA - Obey road rules(Awareness)<br></li>
+<li><a href="http://www.youtube.com/watch?v=odfVUT0S_9Y" rel="prettyPhoto" title="CSITA - SSQ'12 Inauguration"><img src="images/flash-logo.png" width="60" alt="" /></a> - CSITA - SSQ'12 Inauguration<br></li>

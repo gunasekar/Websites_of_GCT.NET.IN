@@ -1,0 +1,14 @@
+<h2>Problem Statement 10</h2><h3 align="center">Type : Normal</h3>
+<br><br>
+A positive integer will be called genie if it can result from an arithmetic expression obeying the following rules:
+<br><br>
+    * Uses the digits 1 through 9, in that order and exactly once each.<br><br>
+    * Any successive digits can be concatenated (for example, using the digits 2, 3 and 4 we obtain the number 234).<br><br>
+    * Only the four usual binary arithmetic operations (addition, subtraction, multiplication and division) are allowed.<br><br>
+    * Each operation can be used any number of times, or not at all.<br><br>
+    * Unary minus is not allowed.<br><br>
+    * Any number of (possibly nested) parentheses may be used to define the order of operations.<br>
+<br>
+For example, 42 is genie, since (1/23) * ((4*5)-6) * (78-9) = 42.<br>
+<br>
+What is the sum of all positive genie integers?<br><br>
